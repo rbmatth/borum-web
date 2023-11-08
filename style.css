@@ -1,0 +1,23 @@
+#map {
+  height: 50vh;
+}
+
+.foo {
+  height: 50vh;
+  background-image: url("https://borumandassociates.com/images/property/4-4.jpg");
+  background-size: cover;
+  background-position: center;
+  font-size: 4em;
+  font-weight: bolder;
+  color: white;
+}
+
+.text-outlinex {
+  text-shadow: 0px 0px 8px black, 0px -0px 8px black, -0px 0px 8px black,
+    -0px -0px 8px black;
+}
+
+.block-outlinex {
+  box-shadow: 0px 0px 8px black, 0px -0px 8px black, -0px 0px 8px black,
+    -0px -0px 8px black;
+}
